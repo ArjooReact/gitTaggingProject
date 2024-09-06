@@ -4,3 +4,4 @@ Adding Phone Pay features.
 Adding Paytm features
 Adding Razorpay features
 Adding Cred features
+Adding Wifi feature
